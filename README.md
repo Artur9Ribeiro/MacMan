@@ -1,4 +1,4 @@
-# PacMan
+# MacMan
 Jogo PacMan feito em lanterna.
 Neste projeto temos o objetivo de desenvolver um jogo inspirado no clássico "Pacman". As principais funções que temos em mente são: 
 - Inimigos que te matam;
